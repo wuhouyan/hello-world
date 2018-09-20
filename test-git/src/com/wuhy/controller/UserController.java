@@ -3,5 +3,9 @@ package com.wuhy.controller;
 public class UserController {
 	
 	public void testGit(){}
+	
+	public String change(){
+		return "ok";
+	}
 
 }
