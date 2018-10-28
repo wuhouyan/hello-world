@@ -11,5 +11,8 @@ public class UserController {
 	String a = "直接在github上修改，本地进行pull拉取";
 		return a;
 	}
+	public void develop_test(){
+		String develop="develop 测试合并";
+	}
 
 }
