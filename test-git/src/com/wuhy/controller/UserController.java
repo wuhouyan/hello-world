@@ -14,5 +14,8 @@ public class UserController {
 	public void develop_test(){
 		String develop="develop 测试合并";
 	}
+	public void develop_test_bran(){
+		String develop="测试分支";
+	}
 
 }
