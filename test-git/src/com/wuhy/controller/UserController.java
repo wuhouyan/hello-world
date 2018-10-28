@@ -19,7 +19,7 @@ public class UserController {
 	}
 	
 	public void test(){
-		String a="wuhy分支提交";
+		String a="wuhy分支提交000000000";
 	}
 
 }
