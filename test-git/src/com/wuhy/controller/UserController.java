@@ -17,5 +17,9 @@ public class UserController {
 	public void develop_test_bran(){
 		String develop="测试分支";
 	}
+	
+	public void test(){
+		String a="wuhy分支提交";
+	}
 
 }
