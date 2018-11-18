@@ -17,5 +17,10 @@ public class UserController {
 		String a="合并分支测试3";
 
 	}
+	
+	public void test3(){
+		String a="合并分支测试3";
+
+	}
 
 }
