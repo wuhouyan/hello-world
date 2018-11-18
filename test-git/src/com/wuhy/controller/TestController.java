@@ -12,5 +12,8 @@ public class UserController {
 	public void test2(){
 		String a="合并分支测试2";
 	}
+	public void test2(){
+		String a="合并分支测试2";
+	}
 
 }
