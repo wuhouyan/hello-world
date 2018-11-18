@@ -5,8 +5,8 @@ public class UserController {
 	
 	
 	
-	public void test(){
-		String a="test分支新增的数据";
+	public void test1(){
+		String a="合并分支测试1";
 	}
 
 }
