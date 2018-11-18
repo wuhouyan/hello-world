@@ -18,8 +18,8 @@ public class UserController {
 
 	}
 	
-	public void test3(){
-		String a="合并分支测试3";
+	public void test4(){
+		String a="合并分支测试4";
 
 	}
 
